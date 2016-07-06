@@ -59,3 +59,14 @@ Konqueror是一个由KDE开发的浏览器，KDE开发人员在开发KDE2时意�
 2011年3月15日，微软推出了Internet Explorer9的正式版，值得一提的是，Internet Explorer9不再支持Windows XP。微软官方表示，IE9不支持WindowsXP是因为其硬件加速功能在WindowsXP系统上无法正常运行。而windows7要求电脑内存至少在1G以上。对此，微软大中华区开发工具及平台事业部总经理谢恩伟表示，“建议这部分用户使用IE8。”
 
 2011年4月11日，Internet Explorer9才推出1个月，微软又推出了Internet Explorer10的首个预览版本。Internet Explorer9不支持XP让不少用户感到愤怒，而如今细心的用户在Internet Explorer10平台开发版的最终用户许可协议中看到，Internet Explorer10连Windows Vista系统也不打算支持了。据协议描述，Internet Explorer10将只支持Windows 7 、Windows 8 两个版本，不过好在Windows Vista从开始到结束都是一个悲情故事，Internet Explorer10不支持Windows Vista对于这么点用户数量而言实在是很难引起反弹的。
+
+##Web前端之基础知识
+**参考网址：http://blog.csdn.net/bear_huangzhen/article/details/46387863**
+##各类程序员学习路线图
+**参考网址：http://www.runoob.com/coder-learn-path**
+##2016年WEB前端学习误区详解之WEB前端学习路线
+**参考网址：http://mt.sohu.com/20160126/n435862702.shtml**
+##Web前端工程师职业学习路线图
+**参考网址：http://jingyan.baidu.com/article/ca2d939d327edaeb6c31ce89.html**
+##web前端开发学习路线
+**参考网址：http://www.aseoe.com/show-41-582-1.html**
